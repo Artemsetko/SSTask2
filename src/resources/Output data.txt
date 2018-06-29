@@ -1,0 +1,8 @@
+ID - 3, name - Frank, average salary - 1758.0
+ID - 1, name - Joy, average salary - 2496.0
+ID - 2, name - Bob, average salary - 2750.0
+ID - 4, name - Steve, average salary - 3161.6
+ID - 6, name - Andree, average salary - 4250.0
+ID - 5, name - Nik, average salary - 4326.400000000001
+ID - 8, name - An, average salary - 5251.0
+ID - 7, name - Jack, average salary - 5251.0
